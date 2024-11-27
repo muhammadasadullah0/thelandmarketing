@@ -133,7 +133,7 @@ const Footer = () => {
               <li>
               <p style={{color: 'white'}}>
                 Email:
-                <a target='_blank' href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMmTvlHrTrjbNBcPkzMLCKvJxMFpTQBkBBRdDwhrnwhNRvrhRGMZBdPcWtkSGbXPwCNbKqQ">info@landmarketing.com</a>
+                <a style={{textTransform:'none'}} target='_blank' href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMmTvlHrTrjbNBcPkzMLCKvJxMFpTQBkBBRdDwhrnwhNRvrhRGMZBdPcWtkSGbXPwCNbKqQ">info@thelandmarketing.com</a>
               </p>
               </li>               
             </ul>
