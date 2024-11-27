@@ -126,7 +126,7 @@ const Footer = () => {
               <p style={{color: 'white'}}>
                 Phone no: 
                 <br />
-                <a target='_blank' href="tel:+920321 2832805">0321 2832805</a>
+                <a target='_blank' href="tel:+920321 2832805">+92 321 2832805</a>
               </p>
               </li>        
               <br />
