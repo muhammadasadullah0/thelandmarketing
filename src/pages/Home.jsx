@@ -85,10 +85,10 @@ const Home = () => {
               <div className="square-container2 bg-black">
                 <div className="icon"><img style={{ backgroundImage: `url(/img/icons/icon-6.png)`}} src="/img/icons/icon-6.png"  /></div>
                 <h4>5 ROOMS APARTMENTS</h4>
-                <p style={{color:"white"}}>1 CAR PARKING</p>
-                <p style={{color:"white"}}>2 HIGH SPEED LIFTS</p>
-                <p style={{color:"white"}}>3 STAND BY GENERATOR</p>
-                <p style={{color:"white"}}>4 FIRE FIGHTING SYSTEM</p>
+                <p style={{color:"white"}}> CAR PARKING</p>
+                <p style={{color:"white"}}> HIGH SPEED LIFTS</p>
+                <p style={{color:"white"}}> STAND BY GENERATOR</p>
+                <p style={{color:"white"}}> FIRE FIGHTING SYSTEM</p>
                 <div className="btn-line"><a href="/contact">CONTACT US</a></div>
               </div>
             </div>
