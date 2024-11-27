@@ -67,7 +67,7 @@ const Navbar = () => {
           </li>
           <li className="nav-item">
             <Link to="/blog" className={`nav-link ${isActive('/blog')}`} onClick={handleNavLinkClick}>
-              Blog
+              Blogs
             </Link>
           </li>
           <li className="nav-item">
